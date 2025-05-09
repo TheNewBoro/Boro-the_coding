@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "해쉬테이블", "해쉬테이블\해쉬테이블.csproj", "{DBEB5F7F-F5F2-494B-B1CF-C774D41A5DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEB5F7F-F5F2-494B-B1CF-C774D41A5DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEB5F7F-F5F2-494B-B1CF-C774D41A5DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEB5F7F-F5F2-494B-B1CF-C774D41A5DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEB5F7F-F5F2-494B-B1CF-C774D41A5DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E097107-14D3-43FC-918C-00E1C1437E76}
+	EndGlobalSection
+EndGlobal

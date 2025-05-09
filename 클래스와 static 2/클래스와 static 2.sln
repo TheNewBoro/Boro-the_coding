@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스와 static 2", "클래스와 static 2\클래스와 static 2.csproj", "{61950524-FE0C-4273-896C-9BDED84BF15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61950524-FE0C-4273-896C-9BDED84BF15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61950524-FE0C-4273-896C-9BDED84BF15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61950524-FE0C-4273-896C-9BDED84BF15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61950524-FE0C-4273-896C-9BDED84BF15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F51F64-5501-4425-8592-850BA248C1BF}
+	EndGlobalSection
+EndGlobal
